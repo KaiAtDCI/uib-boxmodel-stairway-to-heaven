@@ -15,7 +15,6 @@
 
 #stair1 {
     height: 100px;
-    width: 100px;
     box-sizing: content-box;
     background-color: lightgreen;
     margin: 0 0 0 299px;
@@ -67,10 +66,6 @@
     box-sizing: content-box;
     background-color: red;
 }
-
-/* #line1 {
-    padding-left: 0;            /* padding 0 is default value
-} */
 
 #line2 {
     padding-left: 100px;
